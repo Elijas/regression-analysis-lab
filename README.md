@@ -1,3 +1,3 @@
 - **[Peržiūrėti darbą 1](https://nbviewer.jupyter.org/github/Elijas/regression-analysis-lab/blob/master/lab1.ipynb)**
-- **[Peržiūrėti darbą 1](https://nbviewer.jupyter.org/github/Elijas/regression-analysis-lab/blob/master/lab2.ipynb)**
+- **[Peržiūrėti darbą 2](https://nbviewer.jupyter.org/github/Elijas/regression-analysis-lab/blob/master/lab2.ipynb)**
 - [Kitų laboratorinių darbų sąrašas](https://github.com/Elijas/statistikos-laboratoriniai-darbai)
